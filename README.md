@@ -12,6 +12,7 @@ Each directory contains individual examples and should as a minimum contain the 
   keywords: ["border", "demo"]
   language: asm # asm, basic, c, rust, ...
   license: mit # or any other license you prefer, see below
+  filehost_id: 7d516826-a2c3-4a2d-ad2e-a094dce3ae99 # MEGA65 FileHost entry if any (optional)
   rom: 920376 # working with this ROM version 
   ~~~
 - `LICENSE`. A copy of the chosen license - see [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) for a list.
@@ -19,7 +20,6 @@ Each directory contains individual examples and should as a minimum contain the 
 
 While not a requirement, it is recommended to add a:
 - `Makefile` or in another way give instructions how to assemble/compile the program
-- `.prg` or `.d81` of the final example
 
 ## Contributing
 
