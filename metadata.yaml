@@ -1,0 +1,8 @@
+name: myexample,
+description: A short, one-line description
+author: your_name
+keywords: ["sprites", "interrupt"] # add as many keywords as you like
+language: asm # asm, basic, c, rust, ...
+license: mit  # or any other license you prefer
+rom: 920376   # working with this ROM version
+filehost_id: 7d516826-a2c3-4a2d-ad2e-a094dce3ae99 # MEGA65 FileHost entry if any (optional)
